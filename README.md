@@ -11,7 +11,7 @@ mensagens.
 
 ## 📋 Pré-requisitos
 
--   Python 3.9+
+-   Python (**estou usando a versão 3.9, não testei com versões anteriores**)
 -   Chrome (**Navegador**)
 -   Selenium
 
@@ -57,9 +57,3 @@ Para cada número: 1. Abre a conversa 2. Insere a mensagem 3. Envia 4.
 Aguarda 5. Repete
 
 ------------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 📄 Licença
-
-Uso educacional e organizacional.
